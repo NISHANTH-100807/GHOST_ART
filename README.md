@@ -1,4 +1,4 @@
-Absolutely. Since your current repo has the **FastAPI + SQLite + pHash/SHA-256 + Gemini backend** and the React frontend is being built, use this as the `README.md`:
+
 
 ````markdown
 # GHOST ART 👻🎨
